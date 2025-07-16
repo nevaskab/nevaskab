@@ -37,7 +37,8 @@ I've always had no trouble learning new things and this is the most important tr
 * NestJS
 
 ## Languages 🗣️
-* Inglês: Avançado
+* Brazilian Portuguese: Fluent
+* English: Advanced
 
 ## Conecte-se Comigo! 💬
 * Email: [andressa.devsystem@gmail.com](mailto:andressa.devsystem@gmail.com)
