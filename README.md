@@ -41,4 +41,4 @@ I've always had no trouble learning new things and this is the most important tr
 
 ## Conecte-se Comigo! 💬
 * Email: [andressa.devsystem@gmail.com](mailto:andressa.devsystem@gmail.com)
-* Links: [Profile Links] (https://profile-links-rho.vercel.app)
+* Links: [Profile Links](https://profile-links-rho.vercel.app)
