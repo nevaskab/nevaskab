@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hii!👋
 
-<!--
-**nevaskab/nevaskab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm current a student (almost fiiinishing :D) that loves to work hard, communicate and learn. Come here to know more about me <3
 
-Here are some ideas to get you started:
+## About me 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've always had no trouble learning new things and this is the most important trait to this field cuz we need to improve our own skills each day. Recently, I've been working as a teacher for kids and teenagers, sure this made me a communicative person, but now I'm focusing on my technical skills with web development (otherwise, I love back-end)
+
+## Technical Skills 🚀
+
+### Back-end
+* Java (Spring Boot, Maven)
+* Python
+* Javascript (Node.js)
+
+### Front-end
+* HTML
+* CSS
+* Javascript 
+* Tailwind
+
+### Database
+* SQL
+* MySQL
+
+## Soft Skills ✨
+* Empathy
+* Organization
+* Proactivity
+* Good communication
+* Teamwork
+* Agility
+
+## Currently studying/practicing 🛠️
+* React
+* C#
+* NestJS
+
+## Languages 🗣️
+* Inglês: Avançado
+
+## Conecte-se Comigo! 💬
+* Email: [andressa.devsystem@gmail.com](mailto:andressa.devsystem@gmail.com)
+* Links: [Profile Links] (https://profile-links-rho.vercel.app)
