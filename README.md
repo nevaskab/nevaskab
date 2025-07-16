@@ -1,3 +1,5 @@
+![GitHub Banner 4Real](https://github.com/user-attachments/assets/a62b3931-43be-4335-bb28-bf12bed8c19b)
+
 # Hii!👋
 
 I'm current a student (almost fiiinishing :D) that loves to work hard, communicate and learn. Come here to know more about me <3
