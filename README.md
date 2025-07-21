@@ -38,10 +38,18 @@ I've always had no trouble learning new things and this is the most important tr
 * C#
 * NestJS
 
-## Languages 🗣️
+## Speaking 🗣️
 * Brazilian Portuguese: Fluent
 * English: Advanced
 
-## Conecte-se Comigo! 💬
+## My actual setup 💻
+* Operating System: Windows 11 Home X64
+* Model: IdeaPad 3 15ITL6
+* CPU: Intel Core i7-1165G7
+* GPU: Intel Iris Xe Graphics
+* Memory: 12GB RAM
+* Storage: SSD 256GB
+
+## Contact and Social 💬
 * Email: [andressa.devsystem@gmail.com](mailto:andressa.devsystem@gmail.com)
 * Links: [Profile Links](https://profile-links-rho.vercel.app)
