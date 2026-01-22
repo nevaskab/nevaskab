@@ -2,7 +2,7 @@
 
 # Hii!👋
 
-I'm current a System Analisys and Development student (almost fiiinishing :D) that loves to work hard, communicate and learn. Come here to know more about me <3
+I'm current a System Analist and Developer (2023-2025) that loves to work hard, communicate and learn. Come here to know more about me <3
 
 ## About me 👩‍💻
 
