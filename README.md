@@ -40,7 +40,7 @@ I've always had no trouble learning new things and this is the most important tr
 
 ## Speaking 🗣️
 * Brazilian Portuguese: Fluent
-* English: Advanced
+* English: B1 Level
 
 ## My actual setup 💻
 * Operating System: Windows 11 Home X64
